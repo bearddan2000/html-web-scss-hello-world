@@ -1,14 +1,15 @@
-# java-web-maven-springboot-thyme-hello-world
+# html-web-scss-hello-world
 
 ## Description
 A POC for spring framework.
 
 ## Tech stack
-- spring boot
-- thymeleaf
+- sass
+- npm
 
 ## Docker stack
-- maven:3-openjdk-17
+- alpine:edge
+- httpd:latest
 
 ## To run
 `sudo ./install.sh -u`
